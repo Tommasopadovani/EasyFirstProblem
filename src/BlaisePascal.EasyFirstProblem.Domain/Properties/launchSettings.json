@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "BlaisePascal.EasyFirstProblem.Domain": {
+      "commandName": "Project"
+    },
+    "Profilo 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Tommaso\\source\\repos\\EasyFirstProblem\\src\\BlisePascal.EasyFirstProblem.Console\\BlisePascal.EasyFirstProblem.Console.csproj"
+    }
+  }
+}
