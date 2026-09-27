@@ -13,8 +13,18 @@
         Console.WriteLine("whats prize of the book?");
         double bookPrice = double.Parse(Console.ReadLine());
 
+        Console.WriteLine("is the customer a student? (yes/no)");
+        if (Console.ReadLine() == "yes")
+        {
+            bool isStudent = true;
+        }
+        else
+        {
+            bool isStudent = false;
+        }
 
-        
+
+
 
     }
 }
